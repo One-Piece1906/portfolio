@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Portfolio</h1>
+        <h2>Kirtan Pokar</h2>
+    </header>
+
+    <section id="about">
+        <h3>Self Introduction</h3>
+        <p>Hello! I'm Kirtan pokar, a passionate engineer. I love working on projects related to web development.</p>
+    </section>
+
+    <section id="skills">
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML</li>
+            <li>MERN stack</li>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h3>Projects & Work Experience</h3>
+        <ul>
+            <li><a href="#" target="_blank">Project 1</a> - visitor management system</li>
+            <li><a href="#" target="_blank">Project 2</a> - AI -swarm intelligence</li>
+        </ul>
+    </section>
+
+    <section id="feedback">
+        <h3>Feedback & Achievements</h3>
+        <p>🏆 winner of sih 2024</p>
+        <p>🏆 1st runner up in project expo</p>
+    </section>
+
+    <section id="education">
+        <h3>Education Profile</h3>
+        <ul>
+            <li>Bachelor's Degree in B-TECH - Keshav memorial institute of technology</li>
+            <li>intermediate - sri chaitanya college</li>
+            <li>school - johnson grammar school</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h3>Contact Information</h3>
+        <p>Email: <a href="mailto:kirtanpokar19@gmail.com">kirtanpokar19@gmail.com@example.com</a></p>
+        <p>Phone: +1234567890</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">kirtan pokar</a></p>
+        <p>GitHub: <a href="https://github.com/One-Piece1906" target="_blank">one-piece-1906</a></p>
+    </section>
+
+</body>
+</html>
